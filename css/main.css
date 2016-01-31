@@ -322,6 +322,7 @@ width: 11px;
 ============================================================*/
 
 #service .media > .pull-left{
+  color: #000000;
     margin-right: 50px;
 }
 
@@ -342,8 +343,6 @@ width: 11px;
     padding-bottom: 50px;
     padding-left: 20px;
 }
-
-
 
 
 .service-item {
