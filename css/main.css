@@ -68,7 +68,7 @@ body > section {
 }
 
 .section-title {
-  margin: 0 auto 85px;
+  margin: 0 auto 40px;
   width: 420px;
 }
 
@@ -400,7 +400,7 @@ width: 11px;
   left: 120px;
   bottom: 62px;
   z-index: 1;
-  width: 150px;
+  width: 200px;
 }
 
 .service-features {
@@ -525,7 +525,7 @@ figcaption.mask span {
 ============================================================*/
 
 #about {
-    padding-bottom: 0;
+    padding-bottom: 40px;
 }
 
 .about-us img {
@@ -582,11 +582,11 @@ figcaption.mask span {
 }
 
 .fact-item span {
-  display: block;
+  display: inline-block;
   font-size: 50px;
   line-height: 42px;
   font-weight: 700;
-  margin: 28px 0 20px;
+  margin: 28px 5px 20px;
 }
 
 .fact-item p {
@@ -623,6 +623,11 @@ figcaption.mask span {
   float: left;
 }
 
+.tst-single span {
+  max-width: 100px;
+  float: left;
+}
+
 .tst-content {
   border-bottom: 1px solid #a9a9a9;
   margin: 10px 0 0 160px;
@@ -634,10 +639,22 @@ figcaption.mask span {
   line-height: 25px;
 }
 
+.tst-content a {
+  margin: 5px 5px 5px 5px;
+  float: right;
+  color: #00C7FC;
+}
+
+.tst-content a:hover {
+  margin: 5px 5px 5px 5px;
+  float: right;
+  color: #AAA;
+}
+
 .tst-content span {
   float: right;
   font-style: italic;
-  margin-right: 5px;
+  margin: 5px 5px 5px 5px;
 }
 
 /* carousel navigation */
