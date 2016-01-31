@@ -406,11 +406,11 @@ width: 11px;
 .service-features {
   background-color: #0f748f;
   color: #fff;
-  height: 335px;
+  height: 383px;
   padding: 50px 0 50px 65px;
   position: absolute;
   right: 0;
-  top: 18%;
+  top: 0;
   width: 45%;
 }
 
