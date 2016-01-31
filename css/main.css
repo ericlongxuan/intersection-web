@@ -254,10 +254,10 @@ width: 11px;
 
 .carousel-caption > div {
   background-color: rgba(15,116,143,0.8);
-  padding: 60px 50px 80px 20%;
+  padding: 30px 30px 40px 15%;
   position: absolute;
   top: 25%;
-  width: 76%;
+  width: 70%;
 }
 
 #home-carousel .carousel-inner h2 {
@@ -389,14 +389,18 @@ width: 11px;
   position: relative;
 }
 
-.mobile-device .black {
+.mobile-device .phone {
   left: 98px;
+  bottom: 62px;
   z-index: 2;
+  width: 150px;
 }
 
-.mobile-device .white {
-  bottom: -62px;
+.mobile-device .watch {
+  left: 120px;
+  bottom: 62px;
   z-index: 1;
+  width: 150px;
 }
 
 .service-features {
